@@ -2,11 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/untitled/src/part1/basic/variables/ViDu10" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/untitled/src/part1/basic/variables/ViDu11" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/untitled/src/part1/basic/variables/ViDu12" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/untitled/src/part1/basic/variables/ViDu13" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/untitled/src/part1/basic/variables/ViDu14" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/untitled/src/part1/basic/variables/ViDu15" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/part1.basic.variables/Example10NextChar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/part1.basic.variables/Example11SwapTwoIntegers" vcs="Git" />
   </component>
 </project>
